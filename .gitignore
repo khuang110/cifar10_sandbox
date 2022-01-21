@@ -1,0 +1,10 @@
+__pycache__*
+.idea
+
+
+data_loader.py
+*.gz
+
+data*/
+model/
+runs/
